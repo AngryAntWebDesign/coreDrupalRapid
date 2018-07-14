@@ -1,1 +1,2 @@
 # drupalTemplate
+# coreDrupalRapid
